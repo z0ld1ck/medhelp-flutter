@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387732257346",
+    "project_id": "codlab-f6421",
+    "storage_bucket": "codlab-f6421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387732257346:android:382bcbed1a8f2578bc0bdb",
+        "android_client_info": {
+          "package_name": "com.example.codlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387732257346-gpv0ogk1ntkomnbfjgmsitaqb6urjnh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJwK4CvT1DahON1q4mPfEVP_-UA44lio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387732257346-gpv0ogk1ntkomnbfjgmsitaqb6urjnh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
